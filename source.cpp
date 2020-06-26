@@ -1,4 +1,4 @@
-//Input:  Dictionary = { POON, PLEE, SAME, POIE, PLEA, PLIE, POIN }
+//  Input:  Dictionary = { POON, PLEE, SAME, POIE, PLEA, PLIE, POIN }
 //	start = TOON
 //	target = PLEA
 //	Output : 7
